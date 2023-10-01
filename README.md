@@ -40,15 +40,6 @@ In this data science project, we aim to address several research questions:
 
    We'll examine whether there's a gender-based salary gap within the developer community, with a particular focus on Data Science roles.
 
-## Project Structure
-
-- **Data**: This directory contains the raw survey data in CSV format.
-
-- **Notebooks**: This directory includes Jupyter notebooks used for data cleaning, exploration, and analysis.
-
-- **Reports**: Here, you'll find the final reports and visualizations summarizing the findings of our analysis.
-
-- **README.md**: You're reading it! This document provides an overview of the project, its objectives, and the questions we aim to answer.
 
 ## Getting Started
 
