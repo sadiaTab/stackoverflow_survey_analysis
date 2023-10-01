@@ -47,12 +47,13 @@ In this data science project, we aim to address several research questions:
 
    ```bash
    git clone https://github.com/your-username/stackoverflow-survey-analysis.git
-```
+   ```
 
 2. Navigate to the project directory:
-```bash
-cd stackoverflow-survey-analysis
-```
+
+	```bash
+	cd stackoverflow-survey-analysis
+	```
 
 3. Explore the Jupyter notebook `stackoverflow-survey-analysis.ipynb` to follow the analysis process.
 
