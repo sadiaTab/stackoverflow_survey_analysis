@@ -1,23 +1,88 @@
-#Portfolio
+# Stack Overflow Annual Developer Survey Data Analysis
 
-#Business Understanding Questions <br>
-How do I break into the field? <br>
-What are the placement and salaries of those who attended a coding bootcamp? <br>
-How well can we predict an individual's salary? What aspects correlate well to salary? <br>
-How well can we predict an individual's job satisfaction? What aspects correlate well to job satisfaction? <br>
+## Project Overview
+
+Founded in 2008, Stack Overflow has evolved into a vital resource for developers worldwide, providing a platform for learning, knowledge sharing, collaboration, and career development. Every year, Stack Overflow conducts the largest global Developer Survey, collecting insights from over thousands of developers. This survey data, openly available, forms a valuable resource for in-depth data analysis, allowing us to explore real-world questions and challenges.
+
+In this project, we focus on analyzing the 2022 Stack Overflow Developer Survey dataset. The 2022 survey gathered responses from over 70,000 developers, shedding light on how developers learn, the tools they use, and their preferences and demographics.
+
+## Data Source
+
+You can access the survey data in CSV format for each annual developer survey conducted since 2011 from the following link:
+
+[Stack Overflow Developer Surveys](https://insights.stackoverflow.com/survey)
+
+Additional insights provided by Stack Overflow for the 2022 survey can be found here:
+
+[Stack Overflow Survey 2022 Insights](https://survey.stackoverflow.co/2022)
+
+## Research Questions
+
+In this data science project, we aim to address several research questions:
+
+1. **What additional responsibilities do Data Scientists commonly take on in their current positions?**
+
+   We'll explore the roles and responsibilities that Data Scientists often assume beyond their core tasks.
+
+2. **Which programming languages are most frequently utilized by Data Scientists?**
+
+   We'll identify the programming languages that Data Scientists rely on in their day-to-day work.
+
+3. **Is there a correlation between holding a Doctorate degree and earning a higher salary?**
+
+   We'll investigate whether having a Doctorate degree influences earning potential among developers.
+
+4. **Which programming languages are in high demand among Data Scientists, both currently and for the future? Are there any languages gaining increased popularity?**
+
+   We'll analyze the demand for programming languages in the field of Data Science, both in the present and future, to identify trends.
+
+5. **Is there a gender-based salary disparity among developers, with male developers earning higher salaries than their female counterparts?**
+
+   We'll examine whether there's a gender-based salary gap within the developer community, with a particular focus on Data Science roles.
+
+## Project Structure
+
+- **Data**: This directory contains the raw survey data in CSV format.
+
+- **Notebooks**: This directory includes Jupyter notebooks used for data cleaning, exploration, and analysis.
+
+- **Reports**: Here, you'll find the final reports and visualizations summarizing the findings of our analysis.
+
+- **README.md**: You're reading it! This document provides an overview of the project, its objectives, and the questions we aim to answer.
+
+## Getting Started
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/stackoverflow-survey-analysis.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd stackoverflow-survey-analysis
+```
+
+3. Explore the Jupyter notebook `stackoverflow-survey-analysis.ipynb` to follow the analysis process.
+
+4. Review the final reports and visualizations in the "Reports" directory for the project's key findings.
+
+## Programming Language
+
+Python 3.11.5
+
+## Dependencies
+To run the Jupyter notebooks and scripts in this project, you may need the following Python libraries:
+
+- pandas
+- matplotlib
+- seaborn
+- numpy
+
+You can install these dependencies using pip:
+
+```bash
+pip install pandas matplotlib seaborn numpy 
+```
 
 
-# My questions <br>
-1) How to break into Data Science?
-2) Does Data Scientist with a PhD earn more than others?
-3) What are the top skills needed Data Scientist role?
-4) What changes can we observe over time in Data Science field?
-5) What is the salary trend over the time?
-6) What sort of education needed for DS role?
-7) How location correlates to salary?
-8) How well can we predict one's salary?
-9) Does Female Data Scientists tend to receive lower salary than Male?
-
-
-1) Does Data Scientist with a PhD earn more salary than others? 
-2) What are the top skills needed Data Scientist role?
