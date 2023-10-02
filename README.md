@@ -1,6 +1,6 @@
 # Stack Overflow Annual Developer Survey Data Analysis
 
-Blog post about this analysis can be found here: https://medium.com/@sadia_cs/unveiling-the-data-science-landscape-insights-from-stackoverflow-developer-survey-2022-cf00a4532bc5
+Blog post about this analysis can be found [here](https://medium.com/@sadia_cs/unveiling-the-data-science-landscape-insights-from-stackoverflow-developer-survey-2022-cf00a4532bc5)
 
 ## Project Overview
 
