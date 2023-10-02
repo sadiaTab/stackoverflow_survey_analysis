@@ -1,5 +1,7 @@
 # Stack Overflow Annual Developer Survey Data Analysis
 
+Blog post about this analysis can be found here: https://medium.com/@sadia_cs/unveiling-the-data-science-landscape-insights-from-stackoverflow-developer-survey-2022-cf00a4532bc5
+
 ## Project Overview
 
 Founded in 2008, Stack Overflow has evolved into a vital resource for developers worldwide, providing a platform for learning, knowledge sharing, collaboration, and career development. Every year, Stack Overflow conducts the largest global Developer Survey, collecting insights from over thousands of developers. This survey data, openly available, forms a valuable resource for in-depth data analysis, allowing us to explore real-world questions and challenges.
